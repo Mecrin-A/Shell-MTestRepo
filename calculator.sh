@@ -1,4 +1,4 @@
 #/bin/bash
 
-echo "resolving the merge conflicts demouser2"
+echo "resolving the merge conflicts user3"
 
